@@ -4,7 +4,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-public class DBUtill {
+public class DBUtil {
     private static final String PERSISTENSE_UNIT_NAME = "tasklist";
     private static EntityManagerFactory emf;
 
